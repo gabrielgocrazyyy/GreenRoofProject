@@ -1,4 +1,4 @@
-ha# GreenRoofProject
+# GreenRoofProject
 First thing first, thank u for coming to my page!!!
 
 This project started at Sep.2019, ended at Dec.2019, in NewBrunswick, Rutgers University. It works as a tutorial process of my EI class, leaded and guided by Prof. Roger Wang in CEE Department.
