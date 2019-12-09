@@ -3,13 +3,14 @@ First thing first, thank u for coming to my page!!!
 
 This project started at Sep.2019, ended at Dec.2019, in NewBrunswick, Rutgers University. It works as a tutorial process of my EI class, leaded and guided by Prof. Roger Wang in CEE Department.
 
+# Our Tasks
 Our basic aim is to use arduino board-connected sensor to sense, collect(read&write) soil moisture and outdoor temperature on Greenroof that is located on Richard Week Hall.
 
 Then we need to use the python knowledge to edit the code to run the arduino board, then we need to process our data(e.g. refine our data; fit our data to the regression model; use different way/style to present our data)
 
 We build up a numerial model to present the equation between soil moisture(Sm), percipitation(P) and total evaporation(E) 𝐷Sm/dt = aP+ bE
 
-# Our device
+# Our devices
 1).Adafruit METRO w/Atmega328
 
 2).My roomate's 10000mAh power bank
@@ -18,7 +19,7 @@ We build up a numerial model to present the equation between soil moisture(Sm), 
 
 4).8g SD card & SD Reader
 
-# Our sensor
+# Our sensors
 1).Capacitive Soil Moisture Sensor V1.2 
 
 2).TMP36 Temperature Sensor
